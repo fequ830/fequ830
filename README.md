@@ -16,6 +16,7 @@ Some of my hobbies include:
 🛠️ Tools: Visual Studio Code, XCode, Git, Firebase, MongoDB
 
 📫 Email me at: [fequ830@gmail.com](mailto:fequ830@gmail.com)
+
 🤝 Find me on [LinkedIn](https://www.linkedin.com/in/felixqu/)
 
 
