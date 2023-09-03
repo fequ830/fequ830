@@ -6,10 +6,13 @@
 
 Some of my hobbies include:
 1. Rollerskating 🛼
+
    My friend took me to the roller rink for the first time in 2021 and I fell 20 times. I've been falling ever since.
-2. Weightlifting 🏋🏽
+3. Weightlifting 🏋🏽
+
    Not just for health's sake, but I work out to give myself some structure to my daily routine.
-3. Learning languages 🌍
+5. Learning languages 🌍
+
    Language is the key to the hearts of others. Being able to speak to someone in their native tongue is one of the most rewarding things in life.
 
 💬 Languages: Python, C++, HTML/CSS, JavaScript (React.js), Bash
