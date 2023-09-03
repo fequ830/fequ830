@@ -1,6 +1,6 @@
 ## 👋 Hi there, my name is Felix
 
-### I'm a 3rd year student @ UCLA, majoring in Linguistics+CS and minoring in French.
+### I'm a rising 3rd year student @ UCLA, majoring in Linguistics+CS and minoring in French.
 
 💼 Working at: UCLA DevOps (during the school year)
 
