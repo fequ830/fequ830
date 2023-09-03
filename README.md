@@ -13,6 +13,7 @@ Some of my hobbies include:
    Language is the key to the hearts of others. Being able to speak to someone in their native tongue is one of the most rewarding things in life.
 
 💬 Languages: Python, C++, HTML/CSS, JavaScript (React.js), Bash
+
 🛠️ Tools: Visual Studio Code, XCode, Git, Firebase, MongoDB
 
 📫 Email me at: [fequ830@gmail.com](mailto:fequ830@gmail.com)
