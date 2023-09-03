@@ -1,6 +1,6 @@
-### 👋 Hi there, my name is Felix
+## 👋 Hi there, my name is Felix
 
-## I'm a 3rd year student @ UCLA, majoring in Linguistics+CS and minoring in French.
+### I'm a 3rd year student @ UCLA, majoring in Linguistics+CS and minoring in French.
 
 💼 Working at: UCLA DevOps (during the school year)
 
@@ -16,6 +16,7 @@ Some of my hobbies include:
 🛠️ Tools: Visual Studio Code, XCode, Git, Firebase, MongoDB
 
 📫 Email me at: [fequ830@gmail.com](mailto:fequ830@gmail.com)
+🤝 Find me on [LinkedIn](https://www.linkedin.com/in/felixqu/)
 
 
 <!--
