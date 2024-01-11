@@ -1,4 +1,4 @@
-## 👋 Hi there, my name is Felix
+## Hi there
 
 ### I'm a 3rd year Ling+CS student at UCLA.
 
