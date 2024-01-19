@@ -1,30 +1,12 @@
-## Hi there
+### 3rd year ling+cs student at ucla
 
-### I'm a 3rd year Ling+CS student at UCLA.
-
-💼 UCLA DevOps Intern (during school year)
+💼 ucla student media devops intern (during school year)
 
 
-💬 Languages: Python, C++, Javascript/HTML/CSS, Bash
+💬 languages: python, c++, javascript/html/css, bash
 
-🛠️ Tools: VS Code, XCode, Git, Firebase, MongoDB
+🛠️ tools: vs code, xcode, git, firebase, mongodb
 
-📫 Email me at: [fequ830@gmail.com](mailto:fequ830@gmail.com)
+📫 email me here: [fequ830@gmail.com](mailto:fequ830@gmail.com)
 
-👨‍💼 Find me on [LinkedIn](https://www.linkedin.com/in/felixqu/)
-
-
-<!--
-**fequ830/fequ830** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💼 connect w/ me on [linkedIn](https://www.linkedin.com/in/felixqu/)
