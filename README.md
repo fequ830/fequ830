@@ -1,11 +1,11 @@
-### 3rd year ling+cs student at ucla
+### 4th year ling+cs student at ucla
 
 💼 ucla student media devops intern (during school year)
 
 
-💬 languages: python, c++, javascript/html/css, bash
+💬 languages: python, c++
 
-🛠️ tools: vs code, xcode, git, firebase, mongodb
+🛠️ tools: docker, kubernetes, helm, terraform, datadog, azure devops
 
 📫 email me here: [fequ830@gmail.com](mailto:fequ830@gmail.com)
 
